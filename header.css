@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    /* background-color: var(--gray-color); */
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo-header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    width: auto;
+}
+.logo-header img{
+    height: 60px;
+}
+
+.container-nav-links{
+    display: flex;
+    align-items: center;
+}
+.container-nav-links .nav-links ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+.container-nav-links .nav-links ul a{
+    text-decoration: none;
+     
+}
+.container-nav-links .nav-links ul a li{
+    color: var(--primary-color);
+    font-size: 20px;
+    padding-left: 15px;
+}

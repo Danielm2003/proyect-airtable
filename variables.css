@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+:root{
+    --primary-color: #333e21;
+    --secundary-color: #a49d34;
+    --footer-color: #d7d7d7;
+    --gray-color: #d7d7d7;
+    --second-gray-color: #a7a7a7;
+    --orange-color: #e08f26;
+    --goldenberry-color: #e08f26;
+    --banana-color: #f4d127;
+    --canesugar-color: #caa230;
+    --cocoa-color: #a0d9d7;
+    --dragonfruit-color: #f05552;
+    --mango-color: #aad03c;
+    --pineapple-color: #faab20;
+    --color-background: #f3f3f3;
+}
+
+.header-import{
+    width: 100% !important;
+    height: auto;
+    /* position: absolute;
+    z-index: 5; */
+}
+
+.raleway300{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+.raleway400{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+.raleway500{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+.raleway600{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.raleway700{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+.raleway800{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+.raleway900{ /*TIPO DE LETRA*/
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
+
+.baloo400{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 400;
+}
+.baloo500{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 500;
+}
+.baloo600{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+}
+.baloo700{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 700;
+}
+.baloo800{
+    font-family: 'Baloo 2', cursive;
+    font-weight: 800;
+}
